@@ -1,0 +1,498 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gr",
+				"graphicsLayer"
+			],
+			[
+				"la",
+				"layers"
+			],
+			[
+				"service",
+				"serviceUrlPath"
+			],
+			[
+				"_",
+				"_measurement"
+			],
+			[
+				"inf",
+				"infoTemp"
+			],
+			[
+				"layerT",
+				"layerType"
+			],
+			[
+				"gra",
+				"graphic"
+			],
+			[
+				"mart",
+				"margin-top"
+			],
+			[
+				"parent",
+				"parentLayerId"
+			],
+			[
+				"vis",
+				"visibleLayers"
+			],
+			[
+				"visi",
+				"visibleLayerIds"
+			],
+			[
+				"defa",
+				"defaultVisibility"
+			],
+			[
+				"ch",
+				"childLayer"
+			],
+			[
+				"sub",
+				"subLayerId"
+			],
+			[
+				"new",
+				"newLayer"
+			],
+			[
+				"toc",
+				"tocLayer"
+			],
+			[
+				"get",
+				"getLayer"
+			],
+			[
+				"v",
+				"visible"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"layers",
+				"layersInTOC"
+			],
+			[
+				"add",
+				"addLayerInMap"
+			],
+			[
+				"addL",
+				"addLayerInMap"
+			],
+			[
+				"Map",
+				"MapController"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"ser",
+				"serviceType"
+			],
+			[
+				"Simpl",
+				"SimpleLineSymbol"
+			],
+			[
+				"ge",
+				"geometry"
+			],
+			[
+				"Get",
+				"getExtent"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"App",
+				"AppController"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/RabbIT/MyLists/RabbIT.MyLists/rabbIT.myLists.js/lib/rabbIT.myLists.js",
+		"/C/RabbIT/MyLists/RabbIT.MyLists/RabbIT.MyLists.Site/src/jquery.RabbIT.MyLists.Site.js",
+		"/C/RabbIT/MyLists/RabbIT.MyLists/RabbIT.MyLists.Site/gruntfile.js",
+		"/C/RabbIT/MyLists/RabbIT.MyLists/RabbIT.MyLists.Site/test/RabbIT.MyLists.Site_test.js",
+		"/C/RabbIT/MyLists/RabbIT.MyLists/RabbIT.MyLists.Site/RabbIT.MyLists.Site.jquery.json",
+		"/C/Users/alan.delacanal/Downloads/Web.config",
+		"/C/RabbIT/MyLists/RabbIT.MyLists/RabbIT.MyLists.Site/package.json",
+		"/C/Projects/SIGPAE 2014/Web/EOS_Web_Prototipo-RELEASE3/EOS_Web.QuerySIG.Site/QuerySIGMap/js/controllers/MapController.js",
+		"/C/GITRepo/SancorSeguros/IM.GISComponent/Js/IM.GISComponent.API/gisComponent.js",
+		"/C/GITRepo/SancorSeguros/IM.GISComponent/Js/index.html",
+		"/C/Users/alan.delacanal/Downloads/natal-gis.txt",
+		"/C/GITRepo/SancorSeguros/IM.GISComponent/Js/IM.GISComponent.API/gisComponent.min.js",
+		"/C/GITRepo/SancorSeguros/IM.GISComponent/Js/Deliverables/POC/index.html",
+		"/C/GitRepository/SancorSeguros/IM.GISComponent/Js/index.html",
+		"/C/GitRepository/SancorSeguros/IM.GISComponent/Js/IM.GISComponent.API/gisComponent.js",
+		"/C/Projects/SIGPAE 2014/Web/EOS_Web_Prototipo-RELEASE3/EOS_Web.QuerySIG.Site/QuerySIGClient/js/querySIGClient.js",
+		"/C/Projects/SIGPAE 2014/Web/EOS_Web_Prototipo-RELEASE3/EOS_Web.QuerySIG.Site/QuerySIGClient/index.html",
+		"/C/GitRepository/SancorSeguros/IM.GISComponent/Js/IM.GISComponent.API/gisComponent.api.js",
+		"/C/GitRepository/SancorSeguros/IM.GISComponent/Js/IM.GISComponent.API/IM.GISComponent.API",
+		"/C/ws/Flexs/htdocs/flexshop/modules/blockpermanentlinks/blockpermanentlinks.php",
+		"/C/ws/Flexs/htdocs/flexshop/modules/blockbanner/blockbanner.php",
+		"/C/ws/Flexs/htdocs/flexshop/themes/prestashop/header.tpl",
+		"/C/ws/Flexs/htdocs/flexshop/themes/theme001/css/global.css",
+		"/C/ws/Flexs/htdocs/flexshop/themes/prestashop/css/global.css",
+		"/C/ws/Flexs/htdocs/flexshop/modules/blockbanner/blockbanner.tpl",
+		"/C/ws/Flexs/htdocs/flexshop/modules/blockhtml/blockhtml.php",
+		"/C/ws/Flexs/htdocs/flexshop/modules/blockhtml/blockhtml.tpl",
+		"/C/ws/Flexs/htdocs/flexshop/modules/blockpermanentlinks/blockpermanentlinks-header.tpl",
+		"/C/ws/Flexs/htdocs/flexshop/sitemap.xml",
+		"/C/ws/Flexs/htdocs/flexshop/header.php",
+		"/C/ws/Flexs/htdocs/flexshop/index.php",
+		"/C/ws/Flexs/htdocs/flexshop/modules/index.php",
+		"/C/ws/Flexs/htdocs/flexshop/modules/homefeatured/homefeatured.php",
+		"/C/ws/Flexs/htdocs/flexshop/themes/prestashop/index.php",
+		"/C/ws/Flexs/htdocs/flexshop/themes/index.php",
+		"/C/Projects/eclipse_ws/Impronta.EngiNews/platforms/android/assets/www/js/engiNewsMaps.js",
+		"/C/Projects/SIGPAE 2014/Web/EOS_Web_Prototipo-RELEASE3/EOS_Web.QuerySIG.Site/QuerySIGMap/js/ctrlInitialization.js",
+		"/C/Projects/SIGPAE 2014/Web/EOS_Web_Prototipo-RELEASE3/EOS_Web.QuerySIG.Site/QuerySIGMap/js/main.js",
+		"/C/Users/alan.delacanal/AndroidStudioProjects/ListViewExpandingCells/ListViewExpandingCells/res/layout/list_view_item.xml",
+		"/C/Users/alan.delacanal/AndroidStudioProjects/ListViewDraggingAnimation/AndroidManifest.xml",
+		"/C/Projects/SIGPAE 2014/Web/EOS_Web_Prototipo-RELEASE3/EOS_Web.QuerySIG.Site/QuerySIGMap/index.html",
+		"/C/Projects/SIGPAE 2014/Web/EOS_Web_Prototipo-RELEASE3/EOS_Web.QuerySIG.Site/QuerySIGMap/js/bootstrap.js",
+		"/C/Users/alan.delacanal/AppData/Local/Temp/WzE7F12.tmp/Web.config",
+		"/C/Projects/SancorSeguros/GisComponent/PictureMarker_onClickMap.html",
+		"/C/Users/alan.delacanal/Desktop/SieteSolutions/SieteSolutions/MyPriceList/SieteSolutions.MyPriceList.Site/styles/basic.css",
+		"/C/Users/alan.delacanal/Desktop/SieteSolutions/SieteSolutions/MyPriceList/SieteSolutions.MyPriceList.Site/scripts/knockout.js",
+		"/C/Projects/SancorSeguros/GisComponent/login.html",
+		"/C/Projects/SancorSeguros/GisComponent/css/login.css",
+		"/C/Projects/SancorSeguros/GisComponent/gisComponent.html",
+		"/C/Projects/SancorSeguros/GisComponent/gisComponent-3.0.js",
+		"/C/Projects/SancorSeguros/GisComponent/gisComponent_2.0.js",
+		"/C/Projects/www.improntait.com/public_html/wp-content/wp-content/themes/impronta/header.php",
+		"/C/Projects/www.improntait.com/public_html/wp-blog-header.php",
+		"/C/Projects/www.improntait.com/public_html/index.php",
+		"/C/Projects/www.improntait.com/public_html/sitemap.xml",
+		"/C/Projects/SancorSeguros/GisComponent/index.html",
+		"/C/inetpub/wwwroot/Sancor/locator_address/index.html",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/inetpub/wwwroot/Sancor/index.html",
+		"/C/inetpub/wwwroot/Impronta.SharePoint.Service.GisPlus/Web.config",
+		"/C/Projects/eclipse_ws/Impronta.EngiNews/platforms/android/assets/www/js/engiNewsMobile.js",
+		"/C/Projects/eclipse_ws/Impronta.EngiNews/platforms/android/assets/www/js/auth.js",
+		"/C/Projects/eclipse_ws/Impronta.EngiNews/platforms/android/assets/www/credentialsSettings.html",
+		"/C/inetpub/wwwroot/wss/VirtualDirectories/92/web.config",
+		"/C/Projects/SNSP2010/Impronta.GisPlus/CustomAlertsLib/ImprontaCustomAlertTemplates.xml",
+		"/C/Program Files/Common Files/Microsoft Shared/Web Server Extensions/14/TEMPLATE/LAYOUTS/INC/EngiNewsHome/index.html",
+		"/C/inetpub/wwwroot/wss/VirtualDirectories/80/web.config",
+		"/C/Projects/eclipse_ws/Impronta.EngiNews/platforms/android/assets/www/js/PushNotification.js",
+		"/C/Program Files/Common Files/Microsoft Shared/Web Server Extensions/14/TEMPLATE/LAYOUTS/INC/Impronta.GisPlus.SocialFeatures/index.html",
+		"/C/Projects/SNSP2010/Documents/TestData/Pages/index.html",
+		"/C/Program Files/Impronta/News Publisher/GisPlus/Impronta.NewsPublisher.WindowsService.exe.config",
+		"/C/inetpub/wwwroot/Web.config",
+		"/C/Users/alan.delacanal/Desktop/web_imsp_87.config",
+		"/C/inetpub/wwwroot/Impronta.SharePoint.Service.GisPlus/web2.config",
+		"/C/Program Files/Impronta/News Publisher/GisPlus_back/Impronta.NewsPublisher.WindowsService.exe.config",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIG/QuerySIGMap/js/main.js",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIG/QuerySIGMap/js/bootstrap-3.1.0-dist/css/bootstrap-slider.css",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIG/QuerySIGMap/css/mapController.css",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIG/QuerySIGMap/index.html",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIG/QuerySIGMap/js/controllers/MapController.js",
+		"/C/Users/alan.delacanal/Downloads/defaultIM.html",
+		"/C/Projects/www.improntait.com/public_html/wp-content/themes/impronta/page-inicio.php",
+		"/C/Projects/www.improntait.com/public_html/wp-content/content/en.php",
+		"/C/Projects/www.improntait.com/public_html/EngiNews_Site/wp-system.php",
+		"/C/Projects/www.improntait.com/public_html/wp-content/content/enginews-red-social-operativa.php",
+		"/C/Projects/www.improntait.com/public_html/wp-content/themes/impronta/page-productos.php",
+		"/C/Projects/www.improntait.com/public_html/wp-content/themes/impronta/page-servicios.php",
+		"//im10/c$/PAE/Apps/WEB/Prototipo/QuerySIG/QuerySIGMap/js/controllers/MapController.js",
+		"/C/Users/alan.delacanal/Downloads/map_xycoords/index.html",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIG/QuerySIGMap/js/ctrlInitialization.js",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIG/QuerySIGClient/js/querySIGClient.js",
+		"/C/Projects/www.improntait.com/public_html/google8af76020fe2c1cdc.html",
+		"/C/Projects/www.improntait.com/public_html/wp-content/index.php",
+		"/C/index.php",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIG/QuerySIGClient/index.html",
+		"//im10/c$/PAE/Apps/WEB/Prototipo/QuerySIG/QuerySIGMap_back/js/controllers/MapController.js",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIGMap/js/main.js",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIGMap/js/ctrlInitialization.js",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIGMap/css/mapController.css",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIGMap/index.html",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIGMap/js/bootstrap-3.1.0-dist/css/bootstrap-slider.css",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIGMap/css/esri.css",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIGMap/js/controllers/MapController.js",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIGMap/css/dijit/esri.css",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIGMap/css/claro.css",
+		"/C/Users/alan.delacanal/Desktop/angular-bootstrap-slider-master/angular-bootstrap-slider-master/test.html",
+		"/C/Users/alan.delacanal/Downloads/angular-bootstrap-slider-master/angular-bootstrap-slider-master/test.js",
+		"/C/Users/alan.delacanal/Downloads/angular-bootstrap-slider-master/angular-bootstrap-slider-master/test.html",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIGMap/js/test.js",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIGMap/test.html",
+		"/C/Users/alan.delacanal/Downloads/bootstrap-slider-master/bootstrap-slider-master/index.html",
+		"/C/Users/alan.delacanal/Downloads/angular-bootstrap-slider-master/angular-bootstrap-slider-master/bower.json",
+		"/C/Users/alan.delacanal/Downloads/bootstrap-slider-master/bootstrap-slider-master/bower.json",
+		"/C/Users/alan.delacanal/Downloads/bootstrap-slider-master/bootstrap-slider-master/package.json",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIGMap/js/bootstrap.js",
+		"/C/Users/alan.delacanal/Downloads/angular-bootstrap-slider-master/angular-bootstrap-slider-master/slider.js",
+		"/C/Users/alan.delacanal/Downloads/angular-esri-master/angular-esri-master/index.html",
+		"/C/Users/alan.delacanal/Downloads/angular-esri-master/angular-esri-master/js/bootstrap.js",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIGMap/js/example.js",
+		"/C/Users/alan.delacanal/Downloads/angular-esri-master/angular-esri-master/js/main.js",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIGClient/js/querySIGClient.js",
+		"/C/Users/alan.delacanal/Downloads/QuerySIG/QuerySIG/QuerySIGClient/index.html",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIGClient/index.html",
+		"/C/Users/alan.delacanal/Desktop/QuerySIGMap/test.html",
+		"/C/Users/alan.delacanal/Desktop/QuerySIGMap/js/controllers/MapController.js",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIGMap/toc/js/TableOfContents.js",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIGMap/toc/css/TableOfContents.css",
+		"/C/inetpub/wwwroot/PAE2014/web/QuerySIGMap/toc/toc.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"projectPointToMapSR",
+			"addLayerInMap",
+			"graphiclayersTemplates",
+			"layers.add",
+			"grapsLayer",
+			"markerSymbol",
+			"fillSymbol",
+			"graphics.add",
+			"#header",
+			"topMen",
+			"permalinksLeftBg",
+			".permalinksLeftBg",
+			"permaLinks",
+			"dessa",
+			"demail",
+			"email",
+			"tb",
+			"markerSymbol",
+			"header",
+			"hader",
+			"arcgis",
+			"grilla",
+			"symbol",
+			"Gis",
+			"GCMNOTIFICATIONSERVICEURL",
+			"connectionStrings",
+			"connectionstrin",
+			"connect",
+			"appSettings",
+			"ondeman",
+			"ENgi",
+			"EngiNews_Site",
+			"UFO_Site",
+			"sliderHandle",
+			"dom",
+			"geometryServiceUrl",
+			"_measurement",
+			"_responseData",
+			"_responseResults",
+			"../dijit/images",
+			"addLayerInMap",
+			"tocPaneContainer",
+			"filter:progid",
+			"-webkit-border-radius",
+			"tocpane",
+			"tooltip.top",
+			"tooltip",
+			"parentId",
+			"mapser",
+			"addLayerInMap",
+			"else",
+			"addLayerInMap",
+			"Angular",
+			"addLayerInMap",
+			"measurementPaneContainer",
+			"map.addLayer",
+			"enable",
+			"map",
+			"Meas",
+			"Mesea",
+			"enable",
+			"esriLang",
+			"domStyle",
+			"dijitPopup",
+			"dialog",
+			"to",
+			"toJ",
+			"toJson",
+			"querySIGClient",
+			";\n",
+			"html",
+			"loadObjectsResults",
+			"simpleFill",
+			"_get",
+			"loadDefaultServices",
+			"alert",
+			"zoomToXy",
+			"mapReady",
+			"/**",
+			"}).",
+			"'\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"dijit/images"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Gruntfile.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
